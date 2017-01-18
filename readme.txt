@@ -6,6 +6,7 @@ defMaster
 Now did this on the branch
 ChangeOnMaster1a
 ChangeOnMaster1b
+WedTestingGita
+WedTestingGitb
 Change on fork
 ForkBranch1ChangeA
-
